@@ -2,6 +2,8 @@
 
 The official Alpine Linux images, extended to have OpenRC support.
 
+![Docker CI](https://github.com/pojntfx/alpine-openrc/workflows/Docker%20CI/badge.svg)
+
 ## Installation
 
 Images are built weekly and pushed to [hub.docker.com/repository/docker/pojntfx/alpine-openrc](https://hub.docker.com/repository/docker/pojntfx/alpine-openrc).
